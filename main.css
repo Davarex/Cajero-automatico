@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(183, 200, 200);
+}
+
+input,button{
+    display: block;
+    margin: 25px 30px;
+}
+
+/* La clase de js */
+.text {
+    color: aquamarine;
+}
